@@ -20,7 +20,7 @@ namespace Modelado_ATM
         // metodos
         public void DispensarEfectivo()
         {
-            Console.WriteLine("Presete atentción al dispensador para retirar su efectivo.");
+            Console.WriteLine("Preste atentción al dispensador para retirar su efectivo.");
             Console.WriteLine("****(Sonido de selección de papeletas en proceso. ffffrrrr)****");
         }
 

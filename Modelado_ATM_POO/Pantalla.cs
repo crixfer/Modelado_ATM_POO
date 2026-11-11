@@ -9,7 +9,7 @@ namespace Modelado_ATM
             Console.WriteLine(mensaje);
         }
                 
-        public decimal MostrarSaldo(string mensaje)
+        public decimal MostrarSaldo()
         {
             Cuenta.ConsultarSaldo();
             return Cuenta.Saldo;

@@ -18,7 +18,7 @@ namespace Modelado_ATM
         }
 
         // metodos
-        public void MostrarMenu() // METODO MOSTRAR MENU
+        public static void MostrarMenu() // METODO MOSTRAR MENU
         {
             // menu de opciones
                 Console.WriteLine("\t\n********** Menú de opciones **********\n");
